@@ -1,0 +1,30 @@
+body{
+    background-color:#E0D092;
+    text-align: center
+  }
+  
+  h1{
+    color:#E10904;
+    border:2px solid black;
+    border-color:white;
+    padding:10px
+  }
+   
+  #personagem1{
+    color:#E10904
+  }  
+      
+      p{
+        color:#1E2124
+        
+    }
+  
+  a{
+    text-decoration:none;
+      color:white;
+      border-style:solid; 
+    border-color:white;
+    padding:10px;
+    border-radius:5px;
+      background-color:#74BBED
+  }
